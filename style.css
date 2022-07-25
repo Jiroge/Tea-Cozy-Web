@@ -20,13 +20,12 @@ header {
 
 .container1{
   display:flex;
-  justify-content:space-between;
+  justify-content:space-around;
   background-color: black;
 }
 
 .logo img {
   height: 50px;
-  margin-left: 350px;
 }
 .bar ul{
   display:flex;
@@ -35,7 +34,6 @@ header {
   list-style:none;
   text-decoration:underline;
   text-decoration: none ;
-  margin-right: 350px;
 }
 .bar ul li{
  padding: 5px;
